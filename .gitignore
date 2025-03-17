@@ -174,9 +174,15 @@ cython_debug/
 .pypirc
 
 
+
+# Lab_01
 # note
 Note_01.ipynb
 
 
 #Theory
-assignments.ipynb
+assignments .ipynb
+
+
+#assignment
+lab-1.pdf
