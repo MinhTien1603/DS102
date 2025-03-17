@@ -177,12 +177,10 @@ cython_debug/
 
 # Lab_01
 # note
-Note_01.ipynb
-
+Lab_1/Note_01.ipynb
 
 #Theory
-assignments .ipynb
-
+Lab_1/assignments .ipynb
 
 #assignment
-lab-1.pdf
+Lab_1/lab-1.pdf
