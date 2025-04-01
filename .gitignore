@@ -197,3 +197,14 @@ Lab_2/problem.ipynb
 
 #Note
 Lab_2/Draft.ipynb
+
+#Ignore all files in Lab_2
+Lab_2/*
+
+#Unignore the Data directory and its contents
+!Lab_2/Data/
+
+#Unignore specific files
+!Lab_2/Bai_01.ipynb
+!Lab_2/Bai_02.ipynb
+!Lab_2/Bai_03.ipynb
